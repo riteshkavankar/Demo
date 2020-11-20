@@ -11,4 +11,4 @@ This is *bold*
 
 [Link for google](https://www.google.com)
 
-[Link for google with tooltip](https://www.google.com"Google")
+[Link for google with tooltip](https://www.google.com)[Google]
