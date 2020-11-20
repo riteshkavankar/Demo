@@ -42,7 +42,44 @@ This is ~~strikethrough~~
 <!-- This is image -->    
 ![Logo](https://markdown-here.com/img/icon256.png)
 
+<!-- This is code block -->
 
+```bash
 
+nmp install
 
+npm start
+```
+
+```c#
+
+int num1 = 1;
+int num2 = 2;
+
+sum(num1,num2);
+
+function sum(int num1,int num2)
+{
+  return (num1+num2);
+}
+```
+<!-- This is Table -->
+
+| Name     | Email            |
+| -------- | --------         |
+| Jone doe | Jondeo@gmail.com |
+| Pundlik  | Pundlik@gmail.com|
+| Ashish   | Ashish@gmail.com |
+| Omkar    | Omkar@gmail.com  |
+
+<!-- This task list -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
+
+<!-- This is quoated text -->
+> "Lorem ipsmun ply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+
+<!-- This is line -->
+---
 
