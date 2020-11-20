@@ -5,7 +5,8 @@
 # Heading 5
 # Heading 6
 
-_This is italic_
+This is _italic_
 
-*This is bold*
+This is *bold*
 
+[Click here for google](www.google.com)
