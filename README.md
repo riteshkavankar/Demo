@@ -9,4 +9,6 @@ This is _italic_
 
 This is *bold*
 
-[Click here for google](www.google.com)
+[Link for google](https://www.google.com)
+
+[Link for google with tooltip](https://www.google.com"Google")
